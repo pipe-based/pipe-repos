@@ -6,6 +6,7 @@
     - createProxyWithNonce
   - out 
     - GnosisSafeProxy  
+      - https://rinkeby.etherscan.io/address/0xCa59c83995260E2B9D917acB29B5510E7B3fEc3c#code 
   - source code 
     - https://rinkeby.etherscan.io/address/0xa6b71e26c5e0845f74c812102ca7114b6a896ab2#code
     - core code 
